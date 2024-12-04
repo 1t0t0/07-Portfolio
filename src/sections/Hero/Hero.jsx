@@ -8,6 +8,8 @@ import twitterDark from '../../assets/twitter-dark.svg'
 import githubDark from '../../assets/github-dark.svg'
 import igLight from '../../assets/instagramLight.png'
 import igDark from '../../assets/instagramDark.png'
+
+
 import CV from '../../assets/cv.pdf'
 import { useTheme } from '../../common/ThemeContext'
 import TypeAnimationText from '../../common/TypeAnimation'
