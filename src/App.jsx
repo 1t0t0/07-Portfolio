@@ -1,10 +1,14 @@
 import './App.css';
 import Hero from './sections/Hero/Hero'
+import Projects from './sections/Project/Projects';
+import Skills from './sections/Skills/Skills';
 
 const App = () => {
   return (
     <>
       <Hero />
+      <Projects />
+      <Skills />
     </>
   )
 }
