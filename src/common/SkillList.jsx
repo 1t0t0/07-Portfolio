@@ -1,10 +1,10 @@
 import React from 'react'
 
-const SkillList = ({ src, skill }) => {
+const SkillList = ({ src }) => {
     return (
         <span>
             <img src={src} alt="checkMarkIcon" />
-            <p>{skill}</p>
+
         </span>
     )
 }

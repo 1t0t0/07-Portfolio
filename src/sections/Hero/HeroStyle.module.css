@@ -65,7 +65,10 @@
     cursor: pointer;
 }
 .desscription{
-    max-width:28ch
+    max-width:28ch;
+    width:100%;
+    height:50px;
+    
 }
 .info {
     display: flex;
