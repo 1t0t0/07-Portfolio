@@ -10,7 +10,7 @@ import igLight from '../../assets/instagramLight.png'
 import igDark from '../../assets/instagramDark.png'
 
 
-import CV from '../../assets/cv.pdf'
+import CV from '../../assets/Resume.pdf'
 import { useTheme } from '../../common/ThemeContext'
 import TypeAnimationText from '../../common/TypeAnimation'
 
