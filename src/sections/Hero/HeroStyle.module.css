@@ -8,7 +8,7 @@
     min-height:500px;
 
     .hero{
-        max-width: 200px;;
+        max-width: 200px;
     }
     span {
         display: flex;
@@ -54,6 +54,9 @@
 
 .colorModeContainer {
     position: relative;
+    .hero{
+        border-radius: 100%;
+    }
 }
 
 .colorMode {
