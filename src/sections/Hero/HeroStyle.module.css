@@ -80,13 +80,13 @@
 }
 @media (width < 800px) {
     .desscription{
-        position: relative;
-        left: 50px;
+        max-width: 100%;
     }
     .colorMode {
         position:absolute;
         right:10px;
     }
+    
 }
 @media (width >= 800px){
     .container {
