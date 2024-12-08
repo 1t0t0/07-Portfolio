@@ -1,5 +1,5 @@
 import styles from './HeroStyle.module.css'
-import heroImg from '../../assets/WhatsApp Image 2567-12-05 at 14.47.08.jpeg'
+import heroImg from '../../assets/profile_img.png'
 import sun from '../../assets/sun.svg'
 import moon from '../../assets/moon.svg'
 import twitterLight from '../../assets/twitter-light.svg'
