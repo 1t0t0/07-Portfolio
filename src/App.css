@@ -61,6 +61,11 @@ p{
     cursor: pointer;
 }
 
+.project-card h3 {
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+
 @media (width >= 800px) {
     #root {
         gap:100px;
