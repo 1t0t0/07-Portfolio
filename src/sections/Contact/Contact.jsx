@@ -66,7 +66,7 @@ const Contact = () => {
                 pauseOnHover
                 theme="colored"
             />
-            <h1 className="sectionTitle">Contact</h1>
+            <p className="sectionTitle">Contact</p>
             <form onSubmit={onSubmit}>
                 <div className="formGroup">
                     <label htmlFor="name" hidden>

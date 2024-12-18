@@ -26,7 +26,7 @@ const Skills = () => {
 
     return (
         <section id='skills' className={styles.container}>
-            <h1>Skills</h1>
+            <p className='sectionTitle'>Skills</p>
             <h3>language and tools</h3>
             <div className={styles.SkillsList}>
                 <SkillList src={html} />

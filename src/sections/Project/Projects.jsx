@@ -16,7 +16,7 @@ const Projects = () => {
 
     return (
         <section id='projects' className={styles.container}>
-            <h1 className='sectionTitle'>Project</h1>
+            <p className='sectionTitle'>Project</p>
             <div className={styles.projectsContainer}>
                 <ProjectCard src={geminiIcon} link='https://github.com/1t0t0/09-Gemini-Clone.git' h3={'Gemini-Clone'} />
                 <ProjectCard className={styles.projectCard} src={cryptoplace} link='https://github.com/1t0t0/08-cryptoplace.git' h3={'CryptoPlace'} />

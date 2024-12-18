@@ -20,9 +20,16 @@
     a:hover{
         transform: scale(1.05);
     }
-    
+    .heading{
+        font-size: 35px;
+        text-transform: uppercase;
+        font-weight: 600;
+    }
 
 }
+
+
+
 .projectsContainer{
     display:flex;
     flex-direction: column;

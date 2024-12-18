@@ -55,6 +55,9 @@ p{
 
 .sectionTitle {
     margin-bottom: 30px;
+    font-size: 35px;
+    text-transform: uppercase;
+    font-weight: 600;
 }
 
 .hover {
